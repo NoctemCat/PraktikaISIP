@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Praktika</string>
+
+    <!-- Menu Drawer Strings -->
+    <string name="ads">Объявления</string>
+    <string name="my_ads">Мои объявления</string>
+    <string name="car">Машины</string>
+    <string name="pc">Компьютеры</string>
+    <string name="smartphone">Смартфоны</string>
+    <string name="dm">Бытовая техника</string>
+    <string name="account">Аккаунт</string>
+    <string name="sign_up">Регистрация</string>
+    <string name="sign_in">Вход</string>
+    <string name="sign_out">Выход</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="not_reg">Войдите или зарегистрируйтесь</string>
+
+    <!-- Sign Dialog -->
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_up_action">Зарегистрироваться</string>
+    <string name="sign_in_action">Войти</string>
+    <string name="forget_password">Забыли пароль</string>
+    <string name="sign_up_error">Не удалось зарегистрироваться!</string>
+    <string name="sign_in_error">Не удалось войти!</string>
+    <string name="send_verification_error">Не удалось оправить email для подтверждения!</string>
+    <string name="send_verification_done">На вашу почту была отправлена ссылка для подтверждения
+    вашего аккаунта, пожалуйста подтвердите ваш аккаунт!</string>
+    <string name="email_reset_password_was_send">Reset email was sent</string>
+    <string name="link_done">Email успешно подключен</string>
+    <string name="enter_to_Google">У вас уже есть аккаунт с этим email, пожалуйста, войдите под ним  и после этого подсоедините почту</string>
+
+    <!-- Sign Dialog Errors -->
+    <string name="dialog_empty_email">Введите почту</string>
+    <string name="dialog_empty_password">Введите пароль</string>
+    <string name="dialog_error_invalid_email">Неправильно введена почта</string>
+    <string name="dialog_error_email_already_in_use">Данная почта уже используется для другого аккаунта</string>
+    <string name="dialog_error_weak_password">Слабый пароль, минимум длиннее 6 символов</string>
+    <string name="dialog_error_user_not_found">Пользователь не найден</string>
+    <string name="dialog_error_wrong_password">Неправильный пароль</string>
+
+    <!-- Search Related -->
+    <string name="select_country">*Выберите страну</string>
+    <string name="select_city">*Выберите город</string>
+    <string name="attention_country">Необходимо выбрать страну!</string>
+</resources>

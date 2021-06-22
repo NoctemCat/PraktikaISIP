@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "287973359195",
+    "project_id": "praktikakotlin",
+    "storage_bucket": "praktikakotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287973359195:android:2c092ed03d67a5d6dcc97e",
+        "android_client_info": {
+          "package_name": "com.example.praktika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287973359195-jgb0sqps6pf24qamq11diiq5tl2lu3rp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.praktika",
+            "certificate_hash": "ceb62ea63ebded1927bd9f533a4764c2905ccfde"
+          }
+        },
+        {
+          "client_id": "287973359195-5jhakrtq53jir0lbk2lg3q88qgqigfqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHPe5y9qdWu1zfPSEIZ6tMpIL9qL7_1nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287973359195-5jhakrtq53jir0lbk2lg3q88qgqigfqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

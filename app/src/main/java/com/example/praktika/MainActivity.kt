@@ -49,6 +49,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
                 if (account != null)
                 {
                     dialogHelper.getAccHelper().signInFirebaseWithGoogle(account.idToken!!)
+                    dialogHelper.dismissDialog()
                 }
 
             }
